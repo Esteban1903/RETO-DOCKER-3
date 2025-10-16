@@ -1,0 +1,22 @@
+# 🚀 First Docker Image — Node.js App
+
+Proyecto realizado como parte del reto **“First Docker Image”**.  
+El objetivo es crear una aplicación básica en Node.js, contenerizarla con Docker y ejecutar el contenedor de manera local.
+
+---
+
+## 🧩 1️⃣ Instalación y configuración inicial
+
+**Herramientas utilizadas:**
+- [Docker Desktop](https://www.docker.com/products/docker-desktop/)
+- [Visual Studio Code](https://code.visualstudio.com/)
+- Node.js v18
+- Git + GitHub
+
+**Pasos realizados:**
+
+1. Crear la carpeta del proyecto:
+   ```bash
+   mkdir node-docker-app
+   cd node-docker-app
+   npm init -y

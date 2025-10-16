@@ -1,0 +1,11 @@
+{
+  "name": "node-docker-app",
+  "version": "1.0.0",
+  "description": "Hello Docker example",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "parra",
+  "license": "ISC"
+}
